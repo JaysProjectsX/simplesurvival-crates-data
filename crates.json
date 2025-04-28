@@ -1,221 +1,221 @@
 {
-      valentinesCrate: [
+      "valentinesCrate": [
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Sweetheart Sword",
           "tags": ["Sword", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Sweetheart Greatsword",
           "tags": ["Sword", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Sweetheart Spear",
           "tags": ["Sword", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Sweetheart Staff",
           "tags": ["Sword", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Sweetheart Scythe",
           "tags": ["Sword", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Sweetheart Hammer",
           "tags": ["Sword", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
           "name": "Sweetheart Bow",
           "tags": ["Bow", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
           "name": "Sweetheart Crossbow",
           "tags": ["Crossbow", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
           "name": "Sweetheart Pickaxe (Fortune)",
           "tags": ["Pickaxe", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
           "name": "Sweetheart Pickaxe (Silk Touch)",
           "tags": ["Pickaxe", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
           "name": "Sweetheart Shovel (Silk Touch)",
           "tags": ["Shovel", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
           "name": "Sweetheart Axe",
           "tags": ["Axe", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
           "name": "Sweetheart Hoe",
           "tags": ["Hoe", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
           "name": "Sweetheart Fishing Rod",
           "tags": ["Fishing Rod", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
           "name": "Sweetheart Shield",
           "tags": ["Shield", "Sweetheart"]
         },
         {
-          "set": "Sweetheart "set"",
+          "set": "Sweetheart Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
           "name": "Sweetheart Wings",
           "tags": ["Wings", "Sweetheart"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Adoration Sword",
           "tags": ["Sword", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Adoration Greatsword",
           "tags": ["Sword", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Adoration Spear",
           "tags": ["Sword", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Adoration Staff",
           "tags": ["Sword", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Adoration Scythe",
           "tags": ["Sword", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
           "name": "Adoration Hammer",
           "tags": ["Sword", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
           "name": "Adoration Bow",
           "tags": ["Bow", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
           "name": "Adoration Crossbow",
           "tags": ["Crossbow", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
           "name": "Adoration Pickaxe (Fortune)",
           "tags": ["Pickaxe", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
           "name": "Adoration Pickaxe (Silk Touch)",
           "tags": ["Pickaxe", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
           "name": "Adoration Shovel (Silk Touch)",
           "tags": ["Shovel", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
           "name": "Adoration Shovel (Non Silk Touch)",
           "tags": ["Shovel", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
           "name": "Adoration Axe",
           "tags": ["Axe", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
           "name": "Adoration Hoe",
           "tags": ["Hoe", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
           "name": "Adoration Fishing Rod",
           "tags": ["Fishing Rod", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
           "name": "Adoration Shield",
           "tags": ["Shield", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
           "name": "Adoration Wings",
           "tags": ["Wings", "Adoration"]
         },
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
           "name": "Boquet",
           "tags": ["Decor", "Adoration"]
         },
-      ]
-      crate2: [
+      ],
+      "crate2": [
         {
-          "set": "Adoration "set"",
+          "set": "Adoration Set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
           "name": "Boquet",
           "tags": ["Decor", "Adoration"]
         },
-      ]
-      crate3: [
+      ],
+      "crate3": [
         {
-          "set": "Adoration "set"",
+          "set": "Adoration set",
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
           "name": "Boquet",
           "tags": ["Decor", "Adoration"]
