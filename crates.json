@@ -245,6 +245,126 @@
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_wolf_spawn_egg.png",
       "name": "Valentine (Wolf Spawn egg)",
       "tags": ["Spawn Egg"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Panda Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bamboo Pot",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bamboo Stick",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fox Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fox Tail",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Arrow Headband",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Valentine's Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Heart Glasses",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Heart Crown",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Heart Head Band",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Flower Boquet",
+      "tags": ["Decor", "Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Heart Balloon",
+      "tags": ["Decor", "Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Valentine Flowers",
+      "tags": ["Decor", "Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Valentine Mailbox",
+      "tags": ["Decor", "Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Heart Present",
+      "tags": ["Decor", "Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Heart Bear",
+      "tags": ["Decor", "Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Flower Helmet ('24)",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Flower Item ('24)",
+      "tags": ["Decor", "Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Mushroom Helmet ('24)",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Mushroom Backpack ('24)",
+      "tags": ["Cosmetic"]
     }
   ],
   "crate2": [
