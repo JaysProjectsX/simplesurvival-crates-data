@@ -203,6 +203,48 @@
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Boquet",
       "tags": ["Decor", "Adoration"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Valentines Turtle Cap",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Valentines Helmet",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Valentines Chestplate",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Valentines Leggings",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Valentines Boots",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Valentines Elytra",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_wolf_spawn_egg.png",
+      "name": "Valentine (Wolf Spawn egg)",
+      "tags": ["Spawn Egg"]
     }
   ],
   "crate2": [
