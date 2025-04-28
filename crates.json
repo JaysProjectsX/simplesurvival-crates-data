@@ -203,7 +203,7 @@
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
           "name": "Boquet",
           "tags": ["Decor", "Adoration"]
-        },
+        }
       ],
       "crate2": [
         {
@@ -211,7 +211,7 @@
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
           "name": "Boquet",
           "tags": ["Decor", "Adoration"]
-        },
+        }
       ],
       "crate3": [
         {
@@ -219,6 +219,6 @@
           "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
           "name": "Boquet",
           "tags": ["Decor", "Adoration"]
-        },
+        }
       ]
     };
