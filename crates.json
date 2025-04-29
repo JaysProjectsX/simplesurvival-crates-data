@@ -347,36 +347,228 @@
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Flower Helmet ('24)",
       "tags": ["Cosmetic"],
-      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025."
+      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025 due to the Valentines crate not returning this year."
     },
     {
       "set": "Other Cosmetics",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Flower Item ('24)",
       "tags": ["Decor", "Cosmetic"],
-      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025."
+      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025 due to the Valentines crate not returning this year."
     },
     {
       "set": "Other Cosmetics",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Mushroom Helmet ('24)",
       "tags": ["Cosmetic"],
-      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025."
+      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025 due to the Valentines crate not returning this year."
     },
     {
       "set": "Other Cosmetics",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Mushroom Backpack ('24)",
       "tags": ["Cosmetic"],
-      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025."
+      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025 due to the Valentines crate not returning this year."
     }
   ],
-  "crate2": [
+  "springCrate": [
     {
-      "set": "Adoration Set",
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Evergreen Sword",
+      "tags": ["Sword", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Evergreen Greatsword",
+      "tags": ["Sword", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Evergreen Hammer",
+      "tags": ["Sword", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Evergreen Scythe",
+      "tags": ["Sword", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Evergreen Spear",
+      "tags": ["Sword", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Evergreen Staff",
+      "tags": ["Sword", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Evergreen Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Evergreen Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Evergreen Shovel (Silk Touch)",
+      "tags": ["Shovel", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Evergreen Axe",
+      "tags": ["Axe", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Evergreen Hoe",
+      "tags": ["Hoe", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Evergreen Fishing Rod",
+      "tags": ["Fishing Rod", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Evergreen Shield",
+      "tags": ["Shield", "Evergreen"]
+    },
+    {
+      "set": "Evergreen Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
-      "name": "Boquet",
-      "tags": ["Decor", "Adoration"]
+      "name": "Evergreen Crown",
+      "tags": ["Cosmetic", "Evergreen", "Crown"]
+    },
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Evergreen Wings",
+      "tags": ["Wings", "Evergreen"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Ocean Sword",
+      "tags": ["Sword", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Ocean Mace",
+      "tags": ["Sword", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Ocean Hammer",
+      "tags": ["Sword", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Ocean Scythe",
+      "tags": ["Sword", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Ocean Spear",
+      "tags": ["Sword", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Ocean Staff",
+      "tags": ["Sword", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Ocean Trident",
+      "tags": ["Sword", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Ocean Bow",
+      "tags": ["Bow", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Ocean Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Ocean Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Ocean Shovel (Silk Touch)",
+      "tags": ["Shovel", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Ocean Axe",
+      "tags": ["Axe", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Ocean Hoe",
+      "tags": ["Hoe", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Ocean Fishing Rod",
+      "tags": ["Fishing Rod", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Ocean Shield",
+      "tags": ["Shield", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Ocean Backpack",
+      "tags": ["Cosmetic", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Ocean Helmet",
+      "tags": ["Cosmetic", "Ocean"]
+    },
+    {
+      "set": "Ocean Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Ocean Flag",
+      "tags": ["Decor", "Cosmetic", "Ocean"]
     }
   ],
   "crate3": [
