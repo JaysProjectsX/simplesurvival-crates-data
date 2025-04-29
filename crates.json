@@ -243,7 +243,7 @@
     {
       "set": "Other Valentines Cosmetics",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_wolf_spawn_egg.png",
-      "name": "Valentine (Wolf Spawn egg)",
+      "name": "Valentine (Wolf Spawn Egg)",
       "tags": ["Spawn Egg"]
     },
     {
@@ -998,7 +998,201 @@
       "tags": ["Decor", "Cosmetic"]
     }
   ],
-  "crate3": [
+  "easterCrate": [
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Easter Sword",
+      "tags": ["Sword", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Easter Greatsword",
+      "tags": ["Sword", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Easter Staff",
+      "tags": ["Sword", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Easter Spear",
+      "tags": ["Sword", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Easter Scythe ",
+      "tags": ["Sword", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Easter Hammer",
+      "tags": ["Sword", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Easter Bow (Infinity)",
+      "tags": ["Bow", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Easter Bow (Mending)",
+      "tags": ["Bow", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Easter Crossbow",
+      "tags": ["Crossbow", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Easter Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Easter Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Easter Shovel (Silk Touch)",
+      "tags": ["Shovel", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Easter Axe",
+      "tags": ["Axe", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Easter Hoe",
+      "tags": ["Hoe", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Easter Fishing Rod",
+      "tags": ["Fishing Rod", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Easter Shield",
+      "tags": ["Shield", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Easter Backpack",
+      "tags": ["Cosmetic", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Easter Helmet (3D)",
+      "tags": ["Cosmetic", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_helmet.png",
+      "name": "Easter Helmet",
+      "tags": ["Armor", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_chestplate.png",
+      "name": "Easter Chestplate",
+      "tags": ["Armor", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_leggings.png",
+      "name": "Easter Leggings",
+      "tags": ["Armor", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_boots.png",
+      "name": "Easter Boots",
+      "tags": ["Armor", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_rabbit_spawn_egg.png",
+      "name": "Easter Bunny (Rabbit Spawn Egg)",
+      "tags": ["Spawn Egg", "Easter"]
+    },
+    {
+      "set": "Easter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Easter Wings",
+      "tags": ["Elytra", "Easter"]
+    },
+  ],
+  "plushieCrate": [
+    {
+      "set": "Adoration Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Boquet",
+      "tags": ["Decor", "Adoration"]
+    }
+  ],
+  "summerCrate": [
+    {
+      "set": "Adoration Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Boquet",
+      "tags": ["Decor", "Adoration"]
+    }
+  ],
+  "autumnCrate": [
+    {
+      "set": "Adoration Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Boquet",
+      "tags": ["Decor", "Adoration"]
+    }
+  ],
+  "halloweenCrate": [
+    {
+      "set": "Adoration Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Boquet",
+      "tags": ["Decor", "Adoration"]
+    }
+  ],
+  "winterCrate": [
+    {
+      "set": "Adoration Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Boquet",
+      "tags": ["Decor", "Adoration"]
+    }
+  ],
+  "christmasCrate": [
+    {
+      "set": "Adoration Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Boquet",
+      "tags": ["Decor", "Adoration"]
+    }
+  ],
+  "gamesCrate": [
     {
       "set": "Adoration Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
