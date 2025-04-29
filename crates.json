@@ -346,25 +346,29 @@
       "set": "Other Cosmetics",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Flower Helmet ('24)",
-      "tags": ["Cosmetic"]
+      "tags": ["Cosmetic"],
+      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025."
     },
     {
       "set": "Other Cosmetics",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Flower Item ('24)",
-      "tags": ["Decor", "Cosmetic"]
+      "tags": ["Decor", "Cosmetic"],
+      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025."
     },
     {
       "set": "Other Cosmetics",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Mushroom Helmet ('24)",
-      "tags": ["Cosmetic"]
+      "tags": ["Cosmetic"],
+      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025."
     },
     {
       "set": "Other Cosmetics",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Mushroom Backpack ('24)",
-      "tags": ["Cosmetic"]
+      "tags": ["Cosmetic"],
+      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025."
     }
   ],
   "crate2": [
