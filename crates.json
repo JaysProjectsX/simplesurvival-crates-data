@@ -1142,6 +1142,425 @@
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
       "name": "Easter Wings",
       "tags": ["Elytra", "Easter"]
+    },
+        {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Little Bunny Sword",
+      "tags": ["Sword", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Little Bunny Staff",
+      "tags": ["Sword", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Little Bunny Spear",
+      "tags": ["Sword", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Little Bunny Hammer",
+      "tags": ["Sword", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Little Bunny Bow (Infinity)",
+      "tags": ["Bow", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Little Bunny Bow (Mending)",
+      "tags": ["Bow", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Little Bunny Crossbow",
+      "tags": ["Crossbow", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Little Bunny Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Little Bunny Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Little Bunny Shovel (Silk Touch)",
+      "tags": ["Shovel", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Little Bunny Axe",
+      "tags": ["Axe", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Little Bunny Hoe",
+      "tags": ["Hoe", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Little Bunny Fishing Rod",
+      "tags": ["Fishing Rod", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Little Bunny Shield",
+      "tags": ["Shield", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Little Bunny Backpack",
+      "tags": ["Cosmetic", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Little Bunny Helmet",
+      "tags": ["Cosmetic", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Mitten",
+      "tags": ["Cosmetic", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Little Bunny",
+      "tags": ["Decor", "Little Bunny"]
+    },
+    {
+      "set": "Little Bunny Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Little Bunny Flag",
+      "tags": ["Decor", "Little Bunny"]
+    },
+        {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Eggcellent Sword",
+      "tags": ["Sword", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Eggcellent Knife",
+      "tags": ["Sword", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Eggcellent Scythe",
+      "tags": ["Sword", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Eggcellent Staff",
+      "tags": ["Sword", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Eggcellent Spear",
+      "tags": ["Sword", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Eggcellent Hammer",
+      "tags": ["Sword", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Eggcellent Bow",
+      "tags": ["Bow", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Eggcellent Crossbow",
+      "tags": ["Crossbow", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Eggcellent Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Eggcellent Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Eggcellent Shovel (Silk Touch)",
+      "tags": ["Shovel", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Eggcellent Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Eggcellent Axe",
+      "tags": ["Axe", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Eggcellent Hoe",
+      "tags": ["Hoe", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Eggcellent Fishing Rod",
+      "tags": ["Fishing Rod", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Eggcellent Shield",
+      "tags": ["Shield", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Eggcellent Backpack",
+      "tags": ["Cosmetic", "Eggcellent"]
+    },
+    {
+      "set": "Eggcellent Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Eggcellent Wings",
+      "tags": ["Wings", "Eggcellent"]
+    },
+        {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "You're a good egg",
+      "tags": ["NameTag", "Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Have a Hoppy Easter!",
+      "tags": ["NameTag", "Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Bunny kisses and Easter wishes",
+      "tags": ["NameTag", "Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Living life in full bloom",
+      "tags": ["NameTag", "Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Leaf Hat 2",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Leaf Hat 4",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Leaf Hat 5",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bunny Backpack",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Pig Backpack",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Mouse Backpack",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Duck Backpack",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Frog Backpack",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fill the Penguin Backpack",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "ArchAngel Wings",
+      "tags": ["Wings", "Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "DarkAngel Wings",
+      "tags": ["Wings", "Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Phoenix Wings",
+      "tags": ["Wings", "Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fairy Wings",
+      "tags": ["Wings", "Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cyberpunk Wings",
+      "tags": ["Wings", "Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "TwistedVine Wings",
+      "tags": ["Wings", "Cosmetic"]
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bomber Hat ('24)",
+      "tags": ["Cosmetic"],
+      "tooltip": "This was last seen in the Easter crate in 2024 and did not make a return in the Easter 2025 crate."
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bomber Backpack ('24)",
+      "tags": ["Cosmetic"],
+      "tooltip": "This was last seen in the Easter crate in 2024 and did not make a return in the Easter 2025 crate."
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Graved Shogun Helmet ('24)",
+      "tags": ["Cosmetic"],
+      "tooltip": "This was last seen in the Easter crate in 2024 and did not make a return in the Easter 2025 crate."
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Graved Shogun Flag ('24)",
+      "tags": ["Decor", "Cosmetic"],
+      "tooltip": "This was last seen in the Easter crate in 2024 and did not make a return in the Easter 2025 crate."
+    },
+    {
+      "set": "Other Easter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Warden Hat ('24)",
+      "tags": ["Cosmetic"],
+      "tooltip": "This was last seen in the Easter crate in 2024 and did not make a return in the Easter 2025 crate."
+    },
+    {
+      "set": "Easter Crate Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Hot Cross Bun",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Easter Crate Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Gregg the Egg",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Easter Crate Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Easter Flowers",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Easter Crate Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Egg Basket",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Easter Crate Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Blue Eggie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Easter Crate Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Pink Eggie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Easter Crate Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Yellow Eggie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Easter Crate Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Boiled Egg",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
     }
   ],
   "plushieCrate": [
