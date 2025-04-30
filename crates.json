@@ -3158,10 +3158,526 @@
   ],
   "halloweenCrate": [
     {
-      "set": "Adoration Set",
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Inferno Sword",
+      "tags": ["Sword", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Inferno Knife",
+      "tags": ["Sword", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Inferno Staff",
+      "tags": ["Sword", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Inferno Spear",
+      "tags": ["Sword", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Inferno Scythe",
+      "tags": ["Sword", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Inferno Hammer",
+      "tags": ["Sword", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Inferno Bow",
+      "tags": ["Bow", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Inferno Crossbow",
+      "tags": ["Crossbow", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Inferno Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Inferno Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Inferno Shovel (Silk Touch)",
+      "tags": ["Shovel", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Inferno Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Inferno Axe",
+      "tags": ["Axe", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Inferno Hoe",
+      "tags": ["Hoe", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Inferno Fishing Rod",
+      "tags": ["Fishing Rod", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Inferno Shield",
+      "tags": ["Shield", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
-      "name": "Boquet",
-      "tags": ["Decor", "Adoration"]
+      "name": "Inferno Backpack",
+      "tags": ["Cosmetic", "Inferno"]
+    },
+    {
+      "set": "Inferno Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Inferno Wings",
+      "tags": ["Wings", "Inferno"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fiend Skull Sword",
+      "tags": ["Sword", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fiend Skull Knife",
+      "tags": ["Sword", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fiend Skull Staff",
+      "tags": ["Sword", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fiend Skull Spear",
+      "tags": ["Sword", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fiend Skull Scythe",
+      "tags": ["Sword", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fiend Skull Hammer",
+      "tags": ["Sword", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Fiend Skull Bow",
+      "tags": ["Bow", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Fiend Skull Crossbow",
+      "tags": ["Crossbow", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Fiend Skull Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Fiend Skull Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Fiend Skull Shovel (Silk Touch)",
+      "tags": ["Shovel", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Fiend Skull Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Fiend Skull Axe",
+      "tags": ["Axe", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Fiend Skull Hoe",
+      "tags": ["Hoe", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Fiend Skull Fishing Rod",
+      "tags": ["Fishing Rod", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Fiend Skull Shield",
+      "tags": ["Shield", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fiend Skull Backpack",
+      "tags": ["Cosmetic", "Fiend Skull"]
+    },
+    {
+      "set": "Fiend Skull Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fiend Skull Cape",
+      "tags": ["Cosmetic", "Fiend Skull"]
+    },
+        {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Cursed Longsword",
+      "tags": ["Sword", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Cursed Battle Axe",
+      "tags": ["Sword", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Cursed Staff",
+      "tags": ["Sword", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Cursed Spear",
+      "tags": ["Sword", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Cursed Sickle",
+      "tags": ["Sword", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Cursed Bow",
+      "tags": ["Bow", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Cursed Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Cursed Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Cursed Shovel (Silk Touch)",
+      "tags": ["Shovel", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Cursed Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Cursed Axe",
+      "tags": ["Axe", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Cursed Hoe",
+      "tags": ["Hoe", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Cursed Shield",
+      "tags": ["Shield", "Cursed"]
+    },
+    {
+      "set": "Cursed Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cursed Wings",
+      "tags": ["Wings", "Cursed"]
+    },
+        {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Demon Lord Sword",
+      "tags": ["Sword", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Demon Lord Dagger",
+      "tags": ["Sword", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Demon Lord Staff",
+      "tags": ["Sword", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Demon Lord Spear",
+      "tags": ["Sword", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Demon Lord Sickle",
+      "tags": ["Sword", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Demon Lord Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Demon Lord Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Demon Lord Shovel (Silk Touch)",
+      "tags": ["Shovel", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Demon Lord Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Demon Lord Battle Axe",
+      "tags": ["Axe", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Demon Lord Hoe",
+      "tags": ["Hoe", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Demon Lord Shield",
+      "tags": ["Shield", "Demon Lord"]
+    },
+    {
+      "set": "Demon Lord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Demon Lord Wings",
+      "tags": ["Wings", "Demon Lord"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Netherite Helmet (Eye Trim)",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Netherite Chestplate (Eye Trim)",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Netherite Leggings (Eye Trim)",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Netherite Boots (Eye Trim)",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Netherite Boots (Eye Trim)",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adventurer Backpack Level 1",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adventurer Backpack Level 2",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adventurer Backpack Level 3",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adventurer Backpack Level 4",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adventurer Backpack Level 5",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Backy Shreaker",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Sculk Arm",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Demon Hunter Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Demon Hunter Glove",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Demon Hunter Stuff",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Spider Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Spider Legs Backpack",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_iron_sword.png",
+      "name": "Spider Scythe",
+      "tags": ["Sword", "Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Pumpkin Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Pumpkin Backpack",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_iron_sword.png",
+      "name": "Pumpkin Cane",
+      "tags": ["Sword", "Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Undertaker Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Undertaker Backpack",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Halloween Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_iron_shovel.png",
+      "name": "Undertaker Shovel",
+      "tags": ["Shovel", "Cosmetic"]
     }
   ],
   "winterCrate": [
