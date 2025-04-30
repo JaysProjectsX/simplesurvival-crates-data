@@ -2082,11 +2082,594 @@
     }
   ],
   "summerCrate": [
+        {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fairy Sword",
+      "tags": ["Sword", "Fairy"]
+    },
     {
-      "set": "Adoration Set",
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fairy Greatsword",
+      "tags": ["Sword", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fairy Spear",
+      "tags": ["Sword", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fairy Staff",
+      "tags": ["Sword", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fairy Scythe",
+      "tags": ["Sword", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Fairy Hammer",
+      "tags": ["Sword", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Fairy Bow",
+      "tags": ["Bow", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Fairy Crossbow",
+      "tags": ["Crossbow", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Fairy Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Fairy Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Fairy Shovel (Silk Touch)",
+      "tags": ["Shovel", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Fairy Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Fairy Axe",
+      "tags": ["Axe", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Fairy Hoe",
+      "tags": ["Hoe", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Fairy Fishing Rod",
+      "tags": ["Fishing Rod", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Fairy Shield",
+      "tags": ["Shield", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
-      "name": "Boquet",
-      "tags": ["Decor", "Adoration"]
+      "name": "Fairy Wings",
+      "tags": ["Wings", "Fairy"]
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_helmet.png",
+      "name": "Fairy Helmet ('23)",
+      "tags": ["Armor", "Fairy"],
+      "tooltip": "This was last seen in the Summer crate in 2023 and has not returned since."
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_chestplate.png",
+      "name": "Fairy Chestplate ('23)",
+      "tags": ["Armor", "Fairy"],
+      "tooltip": "This was last seen in the Summer crate in 2023 and has not returned since."
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_leggings.png",
+      "name": "Fairy Leggings ('23)",
+      "tags": ["Armor", "Fairy"],
+      "tooltip": "This was last seen in the Summer crate in 2023 and has not returned since."
+    },
+    {
+      "set": "Fairy Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_boots.png",
+      "name": "Fairy Boots ('23)",
+      "tags": ["Armor", "Fairy"],
+      "tooltip": "This was last seen in the Summer crate in 2023 and has not returned since."
+    },
+        {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Little Panda Sword",
+      "tags": ["Sword", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Little Panda Greatsword",
+      "tags": ["Sword", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Little Panda Spear",
+      "tags": ["Sword", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Little Panda Staff",
+      "tags": ["Sword", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Little Panda Scythe",
+      "tags": ["Sword", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Little Panda Hammer",
+      "tags": ["Sword", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Little Panda Bow",
+      "tags": ["Bow", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Little Panda Crossbow",
+      "tags": ["Crossbow", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Little Panda Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Little Panda Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Little Panda Shovel (Silk Touch)",
+      "tags": ["Shovel", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Little Panda Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Little Panda Axe",
+      "tags": ["Axe", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Little Panda Hoe",
+      "tags": ["Hoe", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Little Panda Fishing Rod",
+      "tags": ["Fishing Rod", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Little Panda Shield",
+      "tags": ["Shield", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Little Panda Backpack",
+      "tags": ["Cosmetic", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bamboo Backpack",
+      "tags": ["Cosmetic", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Little Panda Head",
+      "tags": ["Cosmetic", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Little Panda Hood",
+      "tags": ["Cosmetic", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_helmet.png",
+      "name": "Little Panda Helmet",
+      "tags": ["Armor", "Little Panda"]
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_chestplate.png",
+      "name": "Little Panda Chestplate ('23)",
+      "tags": ["Armor", "Little Panda"],
+      "tooltip": "This was last seen in the Summer crate in 2023 and has not returned since."
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_leggings.png",
+      "name": "Little Panda Leggings ('23)",
+      "tags": ["Armor", "Little Panda"],
+      "tooltip": "This was last seen in the Summer crate in 2023 and has not returned since."
+    },
+    {
+      "set": "Little Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_boots.png",
+      "name": "Little Panda Boots ('23)",
+      "tags": ["Armor", "Little Panda"],
+      "tooltip": "This was last seen in the Summer crate in 2023 and has not returned since."
+    },
+        {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Unicorn Sword",
+      "tags": ["Sword", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Unicorn Dagger",
+      "tags": ["Sword", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Unicorn Staff",
+      "tags": ["Sword", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Unicorn Scythe",
+      "tags": ["Sword", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Unicorn Hammer",
+      "tags": ["Sword", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Unicorn Bow",
+      "tags": ["Bow", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Unicorn Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Unicorn Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Unicorn Shovel (Silk Touch)",
+      "tags": ["Shovel", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Unicorn Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Unicorn Axe",
+      "tags": ["Axe", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Unicorn Hoe",
+      "tags": ["Hoe", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Unicorn Fishing Rod",
+      "tags": ["Fishing Rod", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Unicorn Shield",
+      "tags": ["Shield", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Unicorn Backpack",
+      "tags": ["Cosmetic", "Unicorn"]
+    },
+    {
+      "set": "Unicorn Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_leather_helmet.png",
+      "name": "Unicorn Helmet",
+      "tags": ["Armor", "Unicorn"]
+    },
+        {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Wild Sword",
+      "tags": ["Sword", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Wild Greatsword",
+      "tags": ["Sword", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Wild Spear",
+      "tags": ["Sword", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Wild Staff",
+      "tags": ["Sword", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Wild Scythe",
+      "tags": ["Sword", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Wild Hammer",
+      "tags": ["Sword", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Wild Bow",
+      "tags": ["Bow", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Wild Crossbow",
+      "tags": ["Crossbow", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Wild Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Wild Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Wild Shovel (Silk Touch)",
+      "tags": ["Shovel", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Wild Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Wild Axe",
+      "tags": ["Axe", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Wild Hoe",
+      "tags": ["Hoe", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Wild Fishing Rod",
+      "tags": ["Fishing Rod", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Wild Shield",
+      "tags": ["Shield", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Wild Backpack",
+      "tags": ["Cosmetic", "Wild"]
+    },
+    {
+      "set": "Wild Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Wild Wings",
+      "tags": ["Wings", "Wild"]
+    },
+        {
+      "set": "Other Summer Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Ball Cap",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Summer Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Beach hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Summer Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bucket Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Summer Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Flamingo Float",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Summer Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Sunglasses",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Summer Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Spin Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Summer Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Sand Bucket",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Summer Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Straw Hat",
+      "tags": ["Cosmetic"]
+    },
+        {
+      "set": "Summer Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Flamingo Plushie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Summer Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Seagull Plushie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Summer Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Crab Plushie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Summer Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Macaw Plushie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Summer Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Surfer Villager Plushie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Summer Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Hunky Villager Plushie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Summer Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bikini Villager Plushie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Summer Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Jellyfish Plushie (Blue)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Summer Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Jellyfish Plushie (Pink)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Summer Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Jellyfish Plushie (Orange)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
     }
   ],
   "autumnCrate": [
