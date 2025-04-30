@@ -2674,10 +2674,486 @@
   ],
   "autumnCrate": [
     {
-      "set": "Adoration Set",
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Nexus Sword",
+      "tags": ["Sword", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Nexus Greatsword",
+      "tags": ["Sword", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Nexus Spear",
+      "tags": ["Sword", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Nexus Staff",
+      "tags": ["Sword", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Nexus Scythe",
+      "tags": ["Sword", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Nexus Hammer",
+      "tags": ["Sword", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Nexus Bow",
+      "tags": ["Bow", "Nexus"]
+    },
+
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Nexus Crossbow",
+      "tags": ["Crossbow", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Nexus Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Nexus Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Nexus Shovel (Silk Touch)",
+      "tags": ["Shovel", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Nexus Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Nexus Axe",
+      "tags": ["Axe", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Nexus Hoe",
+      "tags": ["Hoe", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Nexus Fishing Rod",
+      "tags": ["Fishing Rod", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Nexus Shield",
+      "tags": ["Shield", "Nexus"]
+    },
+    {
+      "set": "Nexus Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
-      "name": "Boquet",
-      "tags": ["Decor", "Adoration"]
+      "name": "Nexus Wings",
+      "tags": ["Wings", "Nexus"]
+    },
+        {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Bonita Sword",
+      "tags": ["Sword", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Bonita Greatsword",
+      "tags": ["Sword", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Bonita Spear",
+      "tags": ["Sword", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Bonita Staff",
+      "tags": ["Sword", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Bonita Scythe",
+      "tags": ["Sword", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Bonita Hammer",
+      "tags": ["Sword", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Bonita Bow",
+      "tags": ["Bow", "Bonita"]
+    },
+
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Bonita Crossbow",
+      "tags": ["Crossbow", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Bonita Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Bonita Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Bonita Shovel (Silk Touch)",
+      "tags": ["Shovel", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Bonita Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Bonita Axe",
+      "tags": ["Axe", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Bonita Hoe",
+      "tags": ["Hoe", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Bonita Fishing Rod",
+      "tags": ["Fishing Rod", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Bonita Shield",
+      "tags": ["Shield", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bonita Backpack",
+      "tags": ["Cosmetic", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bonita Wings",
+      "tags": ["Wings", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Bonita Helmet",
+      "tags": ["Armor", "Bonita"]
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Sizzle Stick ('23)",
+      "tags": ["NameTag", "Bonita"],
+      "tooltip": "This was last seen in the Autumn crate in 2023 and hasn't returned since."  
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Bouncy Boots ('23)",
+      "tags": ["NameTag", "Bonita"],
+      "tooltip": "This was last seen in the Autumn crate in 2023 and hasn't returned since."  
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Blazing Blade ('23)",
+      "tags": ["NameTag", "Bonita"],
+      "tooltip": "This was last seen in the Autumn crate in 2023 and hasn't returned since."  
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Cheeky Charm ('23)",
+      "tags": ["NameTag", "Bonita"],
+      "tooltip": "This was last seen in the Autumn crate in 2023 and hasn't returned since."  
+    },
+    {
+      "set": "Bonita Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Prankster Pickaxe ('23)",
+      "tags": ["NameTag", "Bonita"],
+      "tooltip": "This was last seen in the Autumn crate in 2023 and hasn't returned since."  
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Enderdragon Sword",
+      "tags": ["Sword", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Enderdragon Spear",
+      "tags": ["Sword", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Enderdragon Staff",
+      "tags": ["Sword", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Enderdragon Scythe",
+      "tags": ["Sword", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Enderdragon Hammer",
+      "tags": ["Sword", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Enderdragon Bow",
+      "tags": ["Bow", "Enderdragon"]
+    },
+
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Enderdragon Crossbow",
+      "tags": ["Crossbow", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Enderdragon Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Enderdragon Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Enderdragon Shovel (Silk Touch)",
+      "tags": ["Shovel", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Enderdragon Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Enderdragon Axe",
+      "tags": ["Axe", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Enderdragon Hoe",
+      "tags": ["Hoe", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Enderdragon Fishing Rod",
+      "tags": ["Fishing Rod", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Enderdragon Shield",
+      "tags": ["Shield", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Enderdragon Gauntlet",
+      "tags": ["Cosmetic", "Enderdragon"]
+    },
+    {
+      "set": "Enderdragon Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Enderdragon Wings",
+      "tags": ["Wings", "Enderdragon"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Autumnal Guardian Helmet",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Autumnal Guardian Chestplate",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Autumnal Guardian Leggings",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Autumnal Guardian Boots",
+      "tags": ["Armor"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Jellyfish Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fedora",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Amongus Head",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "UFO Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Frog hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Hard Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Sensei",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adventurer hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "TV Head",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Sombrero",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Straw hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Basball_cap",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Axolotl hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Leafy Backpack",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Leafy Backpack 2",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Leafy Backpack 4",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Autumn Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Leafy Backpack 5",
+      "tags": ["Cosmetic"]
     }
   ],
   "halloweenCrate": [
