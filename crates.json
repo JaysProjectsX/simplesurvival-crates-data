@@ -1565,10 +1565,520 @@
   ],
   "plushieCrate": [
     {
-      "set": "Adoration Set",
+      "set": "Plushie Crate",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
-      "name": "Boquet",
-      "tags": ["Decor", "Adoration"]
+      "name": "Allay",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Armadillo",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Axolotl",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Axolotl (Blue)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Axolotl (Brown)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Axolotl (Cyan)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Axolotl (Gold)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bat",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    }
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bee",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Blaze",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Breeze",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Camel",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat (Black)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat (Brittish Shorthair)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat (Calico)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    }
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat (Jellie)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat (Persian)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat (Ragdoll)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat (Siamese)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Blue Eggie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat (Tabby)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat (Tuxedo)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat (White)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    }
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cave Spider",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Chicken",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Evoker",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fox",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Snow Fox",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Frog (Cold)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Frog (Temperate)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Frog (Warm)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    }
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Ender Dragon",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Elder Guardian",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Ghast",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Glow Squid",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Goat",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Guardian",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Hoglin",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Horse (Black)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    }
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Horse (Chestnut)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Horse (Gray)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Horse (White)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Horse",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Husk",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Iron Golem",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Parrot (Blue)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Parrot (Cyan)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    }
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Parrot (Grey)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Parrot (Green)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Parrot (Red)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Pig",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Phantom",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Piglin",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Piglin Brute",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Pillager",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    }
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Polar Bear",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Pufferfish",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Rabbit (Black White)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Rabbit (Black)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Rabbit (Gold)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Rabbit (Salt Pepper)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Rabbit (Toast)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Rabbit (White)",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    }
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Rabbit",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Sheep",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Sniffer",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Spider",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Squid",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Stray",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Strider",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Trader Llama",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    }
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Turtle",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Vex",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Villager",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Vindicator",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Wandering Trader",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Warden",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Witch",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Wither Skeleton",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    }
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Wither",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Wolf",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Zoglin",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Zombie",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Zombified Piglin",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
+    },
+    {
+      "set": "Plushie Crate",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Zombie Villager",
+      "tags": ["Decor", "Plushie", "Cosmetic"]
     }
   ],
   "summerCrate": [
