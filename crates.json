@@ -3799,13 +3799,15 @@
       "set": "Winter Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Winter Hat ('23)",
-      "tags": ["Cosmetic", "Winter"]
+      "tags": ["Cosmetic", "Winter"],
+      "tooltip": "This was last seen in the Winter crate in 2023 and hasn't returned since."
     },
     {
       "set": "Winter Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
       "name": "Frostforge Finery Helmet ('23)",
-      "tags": ["Armor", "Winter"]
+      "tags": ["Armor", "Winter"],
+      "tooltip": "This was last seen in the Winter crate in 2023 and hasn't returned since."
     },
     {
       "set": "Winter Set",
