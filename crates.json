@@ -3682,26 +3682,1026 @@
   ],
   "winterCrate": [
     {
-      "set": "Adoration Set",
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Winter Sword",
+      "tags": ["Sword", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Winter Greatsword",
+      "tags": ["Sword", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Winter Spear",
+      "tags": ["Sword", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Winter Staff",
+      "tags": ["Sword", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Winter Scythe",
+      "tags": ["Sword", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Winter Hammer",
+      "tags": ["Sword", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "name": "Winter Bow",
+      "tags": ["Bow", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_crossbow.png",
+      "name": "Winter Crossbow",
+      "tags": ["Crossbow", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Winter Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Winter Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Winter Shovel (Silk Touch)",
+      "tags": ["Shovel", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Winter Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Winter Axe",
+      "tags": ["Axe", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Winter Hoe",
+      "tags": ["Hoe", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Winter Shield",
+      "tags": ["Shield", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Winter Fishing Rod",
+      "tags": ["Fishing Rod", "Winter"]
+    },
+    {
+      "set": "Winter Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
-      "name": "Boquet",
-      "tags": ["Decor", "Adoration"]
+      "name": "Winter Backpack",
+      "tags": ["Cosmetic", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Winter Helmet",
+      "tags": ["Cosmetic", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Winter Wings",
+      "tags": ["Wings", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Winter Hat ('23)",
+      "tags": ["Cosmetic", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Frostforge Finery Helmet ('23)",
+      "tags": ["Armor", "Winter"]
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Frostforge Finery Chestplate ('23)",
+      "tags": ["Armor", "Winter"],
+      "tooltip": "This was last seen in the Winter crate in 2023 and hasn't returned since."
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Frostforge Finery Leggings ('23)",
+      "tags": ["Armor", "Winter"],
+      "tooltip": "This was last seen in the Winter crate in 2023 and hasn't returned since."
+    },
+    {
+      "set": "Winter Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Frostforge Finery Boots ('23)",
+      "tags": ["Armor", "Winter"],
+      "tooltip": "This was last seen in the Winter crate in 2023 and hasn't returned since."
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Thunderbolt Sword",
+      "tags": ["Sword", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Thunderbolt Greatsword",
+      "tags": ["Sword", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Thunderbolt Spear",
+      "tags": ["Sword", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Thunderbolt Staff",
+      "tags": ["Sword", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Thunderbolt Scythe",
+      "tags": ["Sword", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Thunderbolt Hammer",
+      "tags": ["Sword", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "name": "Thunderbolt Bow",
+      "tags": ["Bow", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_crossbow.png",
+      "name": "Thunderbolt Crossbow",
+      "tags": ["Crossbow", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Thunderbolt Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Thunderbolt Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Thunderbolt Shovel (Silk Touch)",
+      "tags": ["Shovel", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Thunderbolt Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Thunderbolt Axe",
+      "tags": ["Axe", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Thunderbolt Hoe",
+      "tags": ["Hoe", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Thunderbolt Shield",
+      "tags": ["Shield", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Thunderbolt Fishing Rod",
+      "tags": ["Fishing Rod", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Thunderbolt Helmet",
+      "tags": ["Cosmetic", "Thunderbolt"]
+    },
+    {
+      "set": "Thunderbolt Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Thunderbolt Wings",
+      "tags": ["Wings", "Thunderbolt"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Frostbite Sword",
+      "tags": ["Sword", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Frostbite Greatsword",
+      "tags": ["Sword", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Frostbite Spear",
+      "tags": ["Sword", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Frostbite Staff",
+      "tags": ["Sword", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Frostbite Scythe",
+      "tags": ["Sword", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Frostbite Hammer",
+      "tags": ["Sword", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "name": "Frostbite Bow",
+      "tags": ["Bow", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_crossbow.png",
+      "name": "Frostbite Crossbow",
+      "tags": ["Crossbow", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Frostbite Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Frostbite Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Frostbite Shovel (Silk Touch)",
+      "tags": ["Shovel", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Frostbite Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Frostbite Axe",
+      "tags": ["Axe", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Frostbite Hoe",
+      "tags": ["Hoe", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Frostbite Shield",
+      "tags": ["Shield", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Frostbite Fishing Rod",
+      "tags": ["Fishing Rod", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Frostbite Helmet",
+      "tags": ["Cosmetic", "Frostbite"]
+    },
+    {
+      "set": "Frostbite Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Frostbite Wings",
+      "tags": ["Wings", "Frostbite"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Allay Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Axolotl Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bat Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bee Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Chicken Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Strider Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fox Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Pig Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Panda Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Skeleton Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Creeper Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Slime Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Breeze Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Wither Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Warden Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Enderman Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Enderdragon Mask",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Winter Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Shulker Mask",
+      "tags": ["Cosmetic"]
     }
   ],
   "christmasCrate": [
     {
-      "set": "Adoration Set",
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "XMas Sword",
+      "tags": ["Sword", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "XMas Greatsword",
+      "tags": ["Sword", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "XMas Spear",
+      "tags": ["Sword", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "XMas Staff",
+      "tags": ["Sword", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "XMas Scythe",
+      "tags": ["Sword", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "XMas Hammer",
+      "tags": ["Sword", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "name": "XMas Bow",
+      "tags": ["Bow", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_crossbow.png",
+      "name": "XMas Crossbow",
+      "tags": ["Crossbow", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "XMas Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "XMas Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "XMas Shovel (Silk Touch)",
+      "tags": ["Shovel", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "XMas Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "XMas Axe",
+      "tags": ["Axe", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "XMas Hoe",
+      "tags": ["Hoe", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_fishing_rod.png",
+      "name": "XMas Fishing Rod",
+      "tags": ["Fishing Rod", "XMas"]
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "XMas Shield",
+      "tags": ["Shield", "XMas"]
+    },
+    {
+      "set": "XMas Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
-      "name": "Boquet",
-      "tags": ["Decor", "Adoration"]
+      "name": "XMas Hat ('23)",
+      "tags": ["Cosmetic", "XMas"],
+      "tooltip": "This was last seen in the Christmas crate in 2023 and hasn't returned since."
+    },
+    {
+      "set": "XMas Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "XMas Wings",
+      "tags": ["Wings", "XMas"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Heavenly Sword",
+      "tags": ["Sword", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Heavenly Greatsword",
+      "tags": ["Sword", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Heavenly Dagger",
+      "tags": ["Sword", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Heavenly Spear",
+      "tags": ["Sword", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Heavenly Staff",
+      "tags": ["Sword", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_mace.png",
+      "name": "Heavenly Mace",
+      "tags": ["Mace", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Heavenly Hammer",
+      "tags": ["Sword", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "name": "Heavenly Bow (Infinity)",
+      "tags": ["Bow", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "name": "Heavenly Bow (Mending)",
+      "tags": ["Bow", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_crossbow.png",
+      "name": "Heavenly Crossbow",
+      "tags": ["Crossbow", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Heavenly Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Heavenly Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Heavenly Shovel (Silk Touch)",
+      "tags": ["Shovel", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Heavenly Shovel (Non Silk Touch)",
+      "tags": ["Shovel", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Heavenly Axe",
+      "tags": ["Axe", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Heavenly Hoe",
+      "tags": ["Hoe", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_fishing_rod.png",
+      "name": "Heavenly Fishing Rod",
+      "tags": ["Fishing Rod", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Heavenly Shield",
+      "tags": ["Shield", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Heavenly Crown",
+      "tags": ["Cosmetic", "Heavenly", "Crown"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Heavenly Winged Backpack",
+      "tags": ["Cosmetic", "Heavenly"]
+    },
+    {
+      "set": "Heavenly Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Heavenly Wings",
+      "tags": ["Wings", "Heavenly"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Green Beanie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Yellow Beanie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Red Beanie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Blue Beanie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Elf Beanie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Elf Beanie the 2nd",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Santa Chimney",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Nutcracker",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Yeti Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Antlers",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Snowman Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Present Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Santa Hat",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Santa Hat with Beard",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Green Scarf",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Yellow Scarf",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Red Scarf",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Christmas Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Blue Scarf",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Bauble",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Candle",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Christmas Cracker",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Present",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Christmas Pudding",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Egg Nog",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Snowball",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Adorable Yule Log",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Angel Plushie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Ginger Woman Plushie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Krampus Plushie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Hunky Santa Plushie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Scringe Plushie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Scrooge Plushie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Snowman Plushie",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Green Nutcracker",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Red Nutcracker",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Christmas Plushies",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Blue Nutcracker",
+      "tags": ["Cosmetic"]
     }
   ],
   "gamesCrate": [
     {
-      "set": "Adoration Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
-      "name": "Boquet",
-      "tags": ["Decor", "Adoration"]
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Violet Sword",
+      "tags": ["Sword", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Violet Greatsword",
+      "tags": ["Sword", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Violet Spear",
+      "tags": ["Sword", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Violet Staff",
+      "tags": ["Sword", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Violet Scythe",
+      "tags": ["Sword", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Violet Hammer",
+      "tags": ["Sword", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Violet Bow",
+      "tags": ["Bow", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Violet Crossbow",
+      "tags": ["Crossbow", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Violet Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Violet Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Violet Shovel",
+      "tags": ["Shovel", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Violet Axe",
+      "tags": ["Axe", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Violet Hoe",
+      "tags": ["Hoe", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_fishing_rod.png",
+      "name": "Violet Fishing Rod",
+      "tags": ["Fishing Rod", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_paper.png",
+      "name": "Violet Backpack",
+      "tags": ["Cosmetic", "Violet"]
+    },
+    {
+      "set": "Violet Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_paper.png",
+      "name": "Violet Wings",
+      "tags": ["Wings", "Violet"]
     }
   ]
 }
