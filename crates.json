@@ -3719,13 +3719,13 @@
     },
     {
       "set": "Winter Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
       "name": "Winter Bow",
       "tags": ["Bow", "Winter"]
     },
     {
       "set": "Winter Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_crossbow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
       "name": "Winter Crossbow",
       "tags": ["Crossbow", "Winter"]
     },
@@ -3866,13 +3866,13 @@
     },
     {
       "set": "Thunderbolt Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
       "name": "Thunderbolt Bow",
       "tags": ["Bow", "Thunderbolt"]
     },
     {
       "set": "Thunderbolt Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_crossbow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
       "name": "Thunderbolt Crossbow",
       "tags": ["Crossbow", "Thunderbolt"]
     },
@@ -3974,13 +3974,13 @@
     },
     {
       "set": "Frostbite Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
       "name": "Frostbite Bow",
       "tags": ["Bow", "Frostbite"]
     },
     {
       "set": "Frostbite Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_crossbow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
       "name": "Frostbite Crossbow",
       "tags": ["Crossbow", "Frostbite"]
     },
@@ -4192,13 +4192,13 @@
     },
     {
       "set": "XMas Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
       "name": "XMas Bow",
       "tags": ["Bow", "XMas"]
     },
     {
       "set": "XMas Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_crossbow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
       "name": "XMas Crossbow",
       "tags": ["Crossbow", "XMas"]
     },
@@ -4240,7 +4240,7 @@
     },
     {
       "set": "XMas Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_fishing_rod.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
       "name": "XMas Fishing Rod",
       "tags": ["Fishing Rod", "XMas"]
     },
@@ -4307,19 +4307,19 @@
     },
     {
       "set": "Heavenly Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
       "name": "Heavenly Bow (Infinity)",
       "tags": ["Bow", "Heavenly"]
     },
     {
       "set": "Heavenly Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_bow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
       "name": "Heavenly Bow (Mending)",
       "tags": ["Bow", "Heavenly"]
     },
     {
       "set": "Heavenly Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_crossbow.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
       "name": "Heavenly Crossbow",
       "tags": ["Crossbow", "Heavenly"]
     },
@@ -4361,7 +4361,7 @@
     },
     {
       "set": "Heavenly Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_fishing_rod.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
       "name": "Heavenly Fishing Rod",
       "tags": ["Fishing Rod", "Heavenly"]
     },
@@ -4687,19 +4687,19 @@
     },
     {
       "set": "Violet Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_fishing_rod.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
       "name": "Violet Fishing Rod",
       "tags": ["Fishing Rod", "Violet"]
     },
     {
       "set": "Violet Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_paper.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Violet Backpack",
       "tags": ["Cosmetic", "Violet"]
     },
     {
       "set": "Violet Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_paper.png",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Violet Wings",
       "tags": ["Wings", "Violet"]
     }
