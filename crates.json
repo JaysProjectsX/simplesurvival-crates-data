@@ -3561,12 +3561,6 @@
     },
     {
       "set": "Other Halloween Cosmetics",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
-      "name": "Netherite Boots (Eye Trim)",
-      "tags": ["Armor"]
-    },
-    {
-      "set": "Other Halloween Cosmetics",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Adventurer Backpack Level 1",
       "tags": ["Cosmetic"]
@@ -4503,109 +4497,109 @@
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Adorable Bauble",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Adorable Candle",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Adorable Christmas Cracker",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Adorable Present",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Adorable Christmas Pudding",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Adorable Egg Nog",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Adorable Snowball",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Adorable Yule Log",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Angel Plushie",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Ginger Woman Plushie",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Krampus Plushie",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Hunky Santa Plushie",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Scringe Plushie",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Scrooge Plushie",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Snowman Plushie",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Green Nutcracker",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Red Nutcracker",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     },
     {
       "set": "Christmas Plushies",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Blue Nutcracker",
-      "tags": ["Cosmetic"]
+      "tags": ["Decor", "Plushie"]
     }
   ],
   "gamesCrate": [
