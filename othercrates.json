@@ -1,0 +1,25 @@
+{
+  "valentinesCrate": [
+    {
+      "set": "Sweetheart Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Sweetheart Sword",
+      "tags": ["Sword", "Sweetheart"]
+    },
+    {
+      "set": "Other Valentines Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Mushroom Backpack ('24)",
+      "tags": ["Cosmetic"],
+      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025 due to the Valentines crate not returning this year."
+    }
+  ],
+  "springCrate": [
+    {
+      "set": "Evergreen Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Evergreen Sword",
+      "tags": ["Sword", "Evergreen"]
+    }
+  ]
+}
