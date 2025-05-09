@@ -1,18 +1,450 @@
 {
-  "valentinesCrate": [
+  "legendaryCrate": [
     {
-      "set": "Sweetheart Set",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
-      "name": "Sweetheart Sword",
-      "tags": ["Sword", "Sweetheart"]
+      "set": "Maces",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_mace.png",
+      "name": "Oguh's Hellbringer",
+      "tags": ["Mace"]
     },
     {
-      "set": "Other Valentines Cosmetics",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
-      "name": "Mushroom Backpack ('24)",
-      "tags": ["Cosmetic"],
-      "tooltip": "This was last in the Valentines crate in 2024, but was released in the Spring Crate in 2025 due to the Valentines crate not returning this year."
-    }
+      "set": "Maces",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_mace.png",
+      "name": "xhammertimex",
+      "tags": ["Mace"]
+    },
+    {
+      "set": "Maces",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_mace.png",
+      "name": "Kuduz's Lightbringer",
+      "tags": ["Mace"]
+    },
+    {
+      "set": "Maces",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_mace.png",
+      "name": "Inceptics Murder Mace",
+      "tags": ["Mace"]
+    },
+    {
+      "set": "Maces",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_mace.png",
+      "name": "Oguh's Lightbringer",
+      "tags": ["Mace"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Flex Sword",
+      "tags": ["Sword", "Flex"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Legendary Sword",
+      "tags": ["Sword", "Legendary"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Spirit Slayer",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Loths Pokie",
+      "tags": ["Sword", "Variant"],
+      "tooltip": "This item is originally a Diamond Sword."
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Jwp's Claymore",
+      "tags": ["Sword", "Banned Item"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Skippy's Scythe",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Morgana's Amanecida",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Wreo's Wrath",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Evos Pokie",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Scotts RG Slicer",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Cakey Cutter",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Sneakys Stabby",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "ImEvo's Pokie",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "ImEvo's Pokie (with a skull)",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Solar Nova",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Novo's Darksaber",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Collector$ Katana",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Mustangs Mistype",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "The Squad Slayer",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Cloudy's Chopper",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Vikings Battlecry",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Architects' Compass",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Deejitox's Death Dagger",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Khodar's Kodachi",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Moki's Katana",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Shannon's Shiny Thing",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Titans Peacemaker",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Manky's Butterknife",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Ares Warblade",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Loths Pokie 2.0",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Voids Lovely Death",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Oxygen Stoneslicer",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "RosieGoldie",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Steamy's BunCutter",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Supremes Stellar Zenith",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Waffle Iron",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Omegas Obliterator",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Aetherblade",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Elextras Extinction",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Nikki’s Butterly Knife",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Blessing Of Saint",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Alty’s Murasama",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Dr’s Scalpel",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Beautimans Belt",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Widow Maker",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Phoenix's Kingslayer",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Lory's Elder wand",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Jadz Dagmor",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Durkon's Caran'Dache",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Bushes Gleaming Blade",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Arjato's Holy Sword",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Chaos Unleasher",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Collector's TradeBlade",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Chanyny's Inverter",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "YooEm's Elder Wand",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "YooEm's Switchblade",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Durkon's Meisterstuck",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Blream's Arctic Iceblade",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Muddy's Poo",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Flex Sword",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Pug's Curse Divinity",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Panzer's Pickle Poker",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Chakra Reciever",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Lubdub's Sigma Slicer",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Gib's Lightsaber",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Google's Anti-Virus",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Wifi's Khopesh",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Cog Splitter",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Angel's Deception",
+      "tags": ["Sword"]
+    }  
   ],
   "springCrate": [
     {
