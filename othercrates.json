@@ -1320,12 +1320,6 @@
     {
       "set": "Axes",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
-      "name": "aaaaaaaa",
-      "tags": ["Axe"]
-    },
-    {
-      "set": "Axes",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
       "name": "Irahs Ban hammer",
       "tags": ["Axe"]
     },
@@ -1375,12 +1369,6 @@
       "set": "Axes",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
       "name": "Flea's Swatter",
-      "tags": ["Axe"]
-    },
-    {
-      "set": "Axes",
-      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
-      "name": "aaaaaaaa",
       "tags": ["Axe"]
     },
     {
@@ -1765,8 +1753,206 @@
     {
       "set": "Shields",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
-      "name": "aaaaaa",
+      "name": "Dominator's Defender",
       "tags": ["Shield"]
+    },
+    {
+      "set": "Shields",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "YooEm's Patronus",
+      "tags": ["Shield"]
+    },
+    {
+      "set": "Shields",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Gale's Deflector",
+      "tags": ["Shield"]
+    },
+    {
+      "set": "Shields",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Oguh's Rundiscjord",
+      "tags": ["Shield"]
+    },
+    {
+      "set": "Shields",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "SinnerBlocker",
+      "tags": ["Shield"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Dr's Pitchfork",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Spark's Thunderbolt",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Devil's Pitchfork",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Thames Trident",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "7Gale's Thunder",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Sifenky's Fork",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "The Wrath of R0AD",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Void's Fork of Fear",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Azeo's Fork",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Phoenix's Typhoon",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Nikki's Noodle Fork",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Proton's Uranium Spear",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Google's Electric Javelin",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Pickaxe =(",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Upcast's Solar Fury",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Honest's Halberd",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Oguh's Fork",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Cubing's Tempest Spear",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Ocean's AbyssalStorm",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Jinn's Pond Pounder",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "CBL's S'more stick™",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Dork Fork",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "♥Physic's Piercer♥",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Inceptic's Pronged Fork",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Ghosty's Zephyr",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Panduhs Forkinator",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Sinner Stabber",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Gibbon's Glacial Spike",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Moon's Fatigue",
+      "tags": ["Trident"]
     }
   ],
   "springCrate": [
