@@ -444,7 +444,1330 @@
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
       "name": "Angel's Deception",
       "tags": ["Sword"]
-    }  
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Angel's Redemption",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Swords",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Epidemicats Zenith",
+      "tags": ["Sword"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Legendary Bow",
+      "tags": ["Bow", "Legendary"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Apollo",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Krios's Longbow",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "OSTKSYewBow",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Manky's Peashooter",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Ectoplasm Cannon",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Mystiie's Whisper",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Marsala's Misclick",
+      "tags": ["Bow", "Banned Item"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "ImEvo's Poppa",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "ImEvo's Poppa (with flames)",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Rob's Poppa",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "RobbyBoy's Blasta",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Legendary Bow",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Eisen is a noob",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Irah's Cupid Bow",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Klein's Incinerator",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Lory's Everdeen",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Crooksio's Achilles",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Novo's Misfortune",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Dr's Harbinger",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "markcl6t9's Vengeance",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Legendary Bow",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Phoenix's Skyfire",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Calli's pew pew",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Howie's harpoon",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Scout's Slingshot",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Oguh's Moneyshooter",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Jadz Heartstring",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Owenn's Sniper",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "FreeWiFi's Eclipse",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Uni's Demon Bite",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Jei's Celestial Bow",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Baguette Shooter",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Evergreen's Wrath",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Flame's Lil Ol Bow",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Honeste's Eclipse",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Chaos Releaser",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Flea's Injector",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "SinnerSlinger",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Collector$ Tradebow",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Scrooge's Taxman Sniper",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Cheeze's Thunder Sniper",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Honeste's Nightfall",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Precice Inceptinator",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "CBL's Boba Bow",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Bows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Flea's Extractor",
+      "tags": ["Bow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Eradicator",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Manky's DL-44",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Miles' Arballest",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "KDK's Krossbeau",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Kyy's Piercer",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Colder's Starshot",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Phoenix's Calamity",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Aspis's Gastrophetes",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Deary's Dream Catcher",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Prospect's Ravenwing",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Jinn's Swampy Surprise",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Crax's Seige Ballista",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Walle's Thundershot",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Steam Powered Crossbow",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Crossbows",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "FreeWiFi's Space Cannon",
+      "tags": ["Crossbow"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Flex Silktouch",
+      "tags": ["Pickaxe", "Flex"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Flex Fortune",
+      "tags": ["Pickaxe", "Flex"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Legendary Silk Touch",
+      "tags": ["Pickaxe", "Legendary"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Legendary Fortune",
+      "tags": ["Pickaxe", "Legendary"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Murdering Miner",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Panders Stick O' Treasure",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Wolfie's Solar Pick",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Evo's Silkie",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Murdering Miner",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Evo's Lucky Boii",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Cakey Silkie",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Mustang's Fastback",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "BlueRaze's Silkie",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Choc's Pickstachio",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "The AltF4 Pick",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Jadz's Fortune",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Alty's Tunnel Bore",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Jadz's Jackpot",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "markcl6t9's Craftminer",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Blackbird's Talon",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Legendary Silktouch",
+      "tags": ["Pickaxe", "Legendary", "Variant"],
+      "tooltip": "This variant has gray text on the 'Silk Touch' rather than cyan."
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Legendary Fortune",
+      "tags": ["Pickaxe", "Legendary", "Variant"],
+      "tooltip": "This variant has gray text on the 'Fortune' rather than cyan."
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Tonky's Chonky Miner",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Eiresione's Fiat Multipick",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Raw's Ghostly Touch",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Asteroxo's Galactic Giga Drill",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Mokie's Silkie",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Gibby's Gobbler",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Emma's Empathy",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Owenn's Earth Breaker",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Banana's Destruction Stick",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Uni's Nightmare Extractor",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Bottle Opener",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Pickaxe of Gluttony",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Saki's Stone Slicer",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "PLMs Obliterator",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Oguh's dig dug",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Pickle Pick",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Teddy's Silky Axe",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Saca's Emerald Miner",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Flea's Flickaxe",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Manda-Rorian Steel",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Eiresiones Mesa Massacre",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Sinner Silker",
+      "tags": ["Pickaxe"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Flex Shovel",
+      "tags": ["Shovel", "Flex"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Legendary Shovel",
+      "tags": ["Shovel", "Legendary"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Mustang's Hood Scoop",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "World Destroyer",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Khodar's Barspoon",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Grave Digger",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Evo's Shovel",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Iggy's Scoop",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Skip's Spoon",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Sunny's Snow Shovel",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Durkons Trencher",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Phoenix's Eggscavator",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Jadz' Dirt Digger",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Eiresione's Snowman Builder",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Vobie's Slaying Shovel",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Upcast's Astral Spade",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Deary's Earthshaker",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Astartes Angel Spade",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Sevvy's Shadow Spade",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "7Gale's Leviathan",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Oguh's Dug Dig",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "FreeWiFi's Snow Scoop",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Shovels",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "MangosPitterPatter",
+      "tags": ["Shovel"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Flex Axe",
+      "tags": ["Axe", "Flex"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Legendary Axe",
+      "tags": ["Axe", "Legendary"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Marsala's Kabutowari",
+      "tags": ["Axe", "Banned Item"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Crazed Axeman",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Jadz's Woodcutter",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Eisen's Streitaxt",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Krios's War Axe",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Axtroverted",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "MRCamps Razor",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Durkons Urgrosh",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "BusinessGuy's Server Crasher",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Alty's Fireaxe",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Proton's Uranium Axe",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Supreme's Halberd",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Evo's Chopstick",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "aaaaaaaa",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Irahs Ban hammer",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Steamy's Electric bread Slicer",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Grimm's Unholy Wrath",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "T0nky Chonky Chopper",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Howie's Haxe",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Google's Retribution",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Cookie Cutter",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Loki's hammer",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Flea's Swatter",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "aaaaaaaa",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Niel's Frequency Cutter",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Oguh's battleaxe",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Flea's Bapper",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Arciti's ClouldBuster",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Chop Chop Youseff",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Inceptic's Septure",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Chanyny's Reverter",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Upcast's Silent Killer",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Inceptic's Septure",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Pony's Axecuse",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Crax's Forge Hammer",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Cheezy Oatmeal Miner",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Nikki's Flex Chopper",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Axes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Sinner Slabber",
+      "tags": ["Axe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Flex Hoe",
+      "tags": ["Hoe", "Flex"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Legendary Hoe",
+      "tags": ["Hoe", "Legendary"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Averith's Walking Stick",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Soul Reaper",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Turtle's Side Chick",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Supreme's Soul Harvester",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Whelks Weed Whacker",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Mustang's-Pipe-Wrench",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Raw's Pickle",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Howeehoeit",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Lory's Sidehoe",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Blream's Handstaff",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Fellowship's Furrower",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Skqy's sickle",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Rave's hoe",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Inceptic's Walkingstick",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Chxos' Side Chick",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Tanz's Nebula",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "FreeWiFi's Ice Scepter",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Upcast's Dirt Tiller Deluxe",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Durkons Cultivator",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Hoes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Kingen's Beet Beater",
+      "tags": ["Hoe"]
+    },
+    {
+      "set": "Fishing Rods",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Kingfisher",
+      "tags": ["Fishing Rod"]
+    },
+    {
+      "set": "Fishing Rods",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Durkons Patience",
+      "tags": ["Fishing Rod"]
+    },
+    {
+      "set": "Fishing Rods",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "NotBreadeds LoafLure",
+      "tags": ["Fishing Rod"]
+    },
+    {
+      "set": "Fishing Rods",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "george's iron boots",
+      "tags": ["Fishing Rod"]
+    },
+    {
+      "set": "Fishing Rods",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Crax's Spider Riding Rod",
+      "tags": ["Fishing Rod"]
+    },
+    {
+      "set": "Fishing Rods",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "shisui's sakana",
+      "tags": ["Fishing Rod"]
+    },
+    {
+      "set": "Fishing Rods",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Honest's Dental Floss",
+      "tags": ["Fishing Rod"]
+    },
+    {
+      "set": "Fishing Rods",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Splex's Poo Scooper",
+      "tags": ["Fishing Rod"]
+    },
+    {
+      "set": "Fishing Rods",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Steam's Copper Rod",
+      "tags": ["Fishing Rod"]
+    },
+    {
+      "set": "Fishing Rods",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "fisti doesnt even fish",
+      "tags": ["Fishing Rod"]
+    },
+    {
+      "set": "Shears",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shears.png",
+      "name": "Shearious buisness",
+      "tags": ["Shears"]
+    },
+    {
+      "set": "Shears",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shears.png",
+      "name": "Prospect's Pencil",
+      "tags": ["Shears"]
+    },
+    {
+      "set": "Shears",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shears.png",
+      "name": "Gasai's Nailclipper",
+      "tags": ["Shears"]
+    },
+    {
+      "set": "Shears",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shears.png",
+      "name": "Phoenix's Chopper Trimmer",
+      "tags": ["Shears"]
+    },
+    {
+      "set": "Shears",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shears.png",
+      "name": "SCAMMED",
+      "tags": ["Shears"]
+    },
+    {
+      "set": "Shears",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shears.png",
+      "name": "Unlucky AF",
+      "tags": ["Shears"]
+    },
+    {
+      "set": "Shears",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shears.png",
+      "name": "Sylvablade",
+      "tags": ["Shears"]
+    },
+    {
+      "set": "Shears",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shears.png",
+      "name": "Ben's Clippers",
+      "tags": ["Shears"]
+    },
+    {
+      "set": "Flint and Steel",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_flint_and_steel.png",
+      "name": "Durkons Hearthfire",
+      "tags": ["Flint and Steel"]
+    },
+    {
+      "set": "Flint and Steel",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_flint_and_steel.png",
+      "name": "Google's Gaslighter",
+      "tags": ["Flint and Steel"]
+    },
+    {
+      "set": "Flint and Steel",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_flint_and_steel.png",
+      "name": "Brads Zippo",
+      "tags": ["Flint and Steel"]
+    },
+    {
+      "set": "Flint and Steel",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_flint_and_steel.png",
+      "name": "Prospect's Flame",
+      "tags": ["Flint and Steel"]
+    },
+    {
+      "set": "Flint and Steel",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_flint_and_steel.png",
+      "name": "Honest's Spitfire",
+      "tags": ["Flint and Steel"]
+    },
+    {
+      "set": "Flint and Steel",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_flint_and_steel.png",
+      "name": "Hernrob's Greek Fire",
+      "tags": ["Flint and Steel"]
+    },
+    {
+      "set": "Flint and Steel",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_flint_and_steel.png",
+      "name": "⠁⠁⠙⠑⠝⡎ ⠞⠁⠭⡎",
+      "tags": ["Flint and Steel"],
+      "tooltip": "This item name translates to: Aadens Taxes."
+    },
+    {
+      "set": "Flint and Steel",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_flint_and_steel.png",
+      "name": "Fiyahstartah",
+      "tags": ["Flint and Steel"]
+    },
+    {
+      "set": "Flint and Steel",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_flint_and_steel.png",
+      "name": "Abi's Flames of Love",
+      "tags": ["Flint and Steel"]
+    },
+    {
+      "set": "Shields",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "aaaaaa",
+      "tags": ["Shield"]
+    }
   ],
   "springCrate": [
     {
