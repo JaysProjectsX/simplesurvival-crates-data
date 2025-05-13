@@ -1563,8 +1563,418 @@
       "tags": ["Decor", "Plushie", "Cosmetic"]
     }
   ],
+  "cosmeticsCrate" [
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Geared Up Sword",
+      "tags": ["Sword", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Geared Up Hammer",
+      "tags": ["Sword", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Geared Up Sickle",
+      "tags": ["Sword", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Geared Up Spear",
+      "tags": ["Sword", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Geared Up Battle Axe",
+      "tags": ["Axe", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Geared Up Bow",
+      "tags": ["Bow", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Geared Up Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Geared Up Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Geared Up Shovel",
+      "tags": ["Shovel", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Geared Up Axe",
+      "tags": ["Axe", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Geared Up Hoe",
+      "tags": ["Hoe", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Geared Up Fishing Rod",
+      "tags": ["Fishing Rod", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Geared Up Shield",
+      "tags": ["Shield", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Geared Up Helmet",
+      "tags": ["Cosmetic", "Geared Up"]
+    },
+    {
+      "set": "Geared Up Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Geared Up Wings",
+      "tags": ["Wings", "Geared Up"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Eldritch Sword",
+      "tags": ["Sword", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Eldritch Staff",
+      "tags": ["Sword", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Eldritch Spear",
+      "tags": ["Sword", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Eldritch Sickle",
+      "tags": ["Sword", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Eldritch Battle Axe",
+      "tags": ["Axe", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Eldritch Bow",
+      "tags": ["Bow", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Eldritch Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Eldritch Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Eldritch Shovel (Silk Touch)",
+      "tags": ["Shovel", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Eldritch Axe",
+      "tags": ["Axe", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Eldritch Hoe",
+      "tags": ["Hoe", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Eldritch Shield",
+      "tags": ["Shield", "Eldritch"]
+    },
+    {
+      "set": "Eldritch Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Eldritch Wings",
+      "tags": ["Wings", "Eldritch"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Vanguard Sword",
+      "tags": ["Sword", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Vanguard Staff",
+      "tags": ["Sword", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Vanguard Spear",
+      "tags": ["Sword", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Vanguard Sickle",
+      "tags": ["Sword", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Vanguard Battle Axe",
+      "tags": ["Axe", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Vanguard Bow",
+      "tags": ["Bow", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Vanguard Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Vanguard Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Vanguard Shovel (Silk Touch)",
+      "tags": ["Shovel", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Vanguard Axe",
+      "tags": ["Axe", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Vanguard Hoe",
+      "tags": ["Hoe", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
+      "name": "Vanguard Fishing Rod",
+      "tags": ["Fishing Rod", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Vanguard Shield",
+      "tags": ["Shield", "Vanguard"]
+    },
+    {
+      "set": "Vanguard Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Vanguard Wings",
+      "tags": ["Wings", "Vanguard"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Starlight Sword",
+      "tags": ["Sword", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Starlight Blade",
+      "tags": ["Sword", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Starlight Dagger",
+      "tags": ["Sword", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Starlight Staff",
+      "tags": ["Sword", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Starlight Spear",
+      "tags": ["Sword", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Starlight Sickle",
+      "tags": ["Sword", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Starlight Battle Axe",
+      "tags": ["Axe", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Starlight Bow",
+      "tags": ["Bow", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Starlight Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Starlight Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Starlight Shovel",
+      "tags": ["Shovel", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Starlight Axe",
+      "tags": ["Axe", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Starlight Hoe",
+      "tags": ["Hoe", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Starlight Shield",
+      "tags": ["Shield", "Starlight"]
+    },
+    {
+      "set": "Starlight Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Starlight Wings",
+      "tags": ["Wings", "Starlight"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bear Ears",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Bear Tail",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Rabbit Ears",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Rabbit Tail",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat Ears",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Cat Tail",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Tiger Tail",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fox Ears",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Fox Tail",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Wolf Ears",
+      "tags": ["Cosmetic"]
+    },
+    {
+      "set": "Other Cosmetics",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
+      "name": "Wolf Tail",
+      "tags": ["Cosmetic"]
+    }
+  ],
   "plushieCrate": [
-        {
+    {
       "set": "Plushie Crate",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_paper.png",
       "name": "Allay",
