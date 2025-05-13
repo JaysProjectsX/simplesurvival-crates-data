@@ -3066,6 +3066,578 @@
       "tooltip": "'Username' would be replaced with your username when pulled from the crate."
     }
   ],
+  "miscItems": [
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Votechampion Helmet",
+      "tags": ["Helmet", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Votechampion Chestplate",
+      "tags": ["Chestplate", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Votechampion Leggings",
+      "tags": ["Leggings", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Votechampion Boots",
+      "tags": ["Boots", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Votechampion Elytra",
+      "tags": ["Elytra", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Votechampion Sword",
+      "tags": ["Sword", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_mace.png",
+      "name": "Votechampion Mace",
+      "tags": ["Mace", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Votechampion Bow",
+      "tags": ["Bow", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Votechampion Crossbow",
+      "tags": ["Crossbow", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Votechampion Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Votechampion Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Votechampion Shovel",
+      "tags": ["Shovel", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Votechampion Axe (Silk Touch)",
+      "tags": ["Axe", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Votechampion Hoe",
+      "tags": ["Hoe", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Votechampion Trident",
+      "tags": ["Trident", "Vote Champion"]
+    },
+    {
+      "set": "Vote Champion Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Votechampion Shield",
+      "tags": ["Shield", "Vote Champion"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "△ Salty △",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Halloween 2021",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Ultimate FLEX offender",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Simp ♥",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "vikingS",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "RoseGold",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Rememberance day poppy ♥",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Death Penalty",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Canceled",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Halloween 2020™",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "G.O.A.T.E.D",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "FightingIrish",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Frostmourne",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "♥ Be Mine Forever",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "I love you",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "♥ Together Forever",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Autographed by CBL",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "shannon's shiny thing",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "SNAPopocalypse",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "SNAPtastic",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Meagii's spot",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Mystiified",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Nexus approved item©",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Trees™",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "LOLA                   :)",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Nikki's Kawaii Kiwi",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "(ノಠ益ಠ)ノ彡 ǝʇɐɹƆ ɔıɥʇʎW",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "ImEvo's Silktouch",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Bedrock Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Bedrock Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Bedrock"]
+    },
+    {
+      "set": "Bedrock Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Bedrock Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Bedrock"]
+    },
+    {
+      "set": "Bedrock Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
+      "name": "Bedrock Spade",
+      "tags": ["Shovel", "Bedrock"]
+    },
+    {
+      "set": "Bedrock Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_axe.png",
+      "name": "Bedrock Axe",
+      "tags": ["Axe", "Bedrock"]
+    },
+    {
+      "set": "Bedrock Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_hoe.png",
+      "name": "Bedrock Hoe",
+      "tags": ["Hoe", "Bedrock"]
+    },
+    {
+      "set": "Titan Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Titan Helmet",
+      "tags": ["Helmet", "Titan"]
+    },
+    {
+      "set": "Titan Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Titan Chestplate",
+      "tags": ["Chestplate", "Titan"]
+    },
+    {
+      "set": "Titan Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Titan Leggings",
+      "tags": ["Leggings", "Titan"]
+    },
+    {
+      "set": "Titan Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Titan Boots",
+      "tags": ["Boots", "Titan"]
+    },
+    {
+      "set": "Titan Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Titan Sword",
+      "tags": ["Sword", "Titan"]
+    },
+    {
+      "set": "Titan Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Titan Crossbow",
+      "tags": ["Crossbow", "Titan"]
+    },
+    {
+      "set": "Titan Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Titan Bow",
+      "tags": ["Bow", "Titan"]
+    },
+    {
+      "set": "Warlord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Warlord Helmet",
+      "tags": ["Helmet", "Warlord"]
+    },
+    {
+      "set": "Warlord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Warlord Chestplate",
+      "tags": ["Chestplate", "Warlord"]
+    },
+    {
+      "set": "Warlord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Warlord Leggings",
+      "tags": ["Leggings", "Warlord"]
+    },
+    {
+      "set": "Warlord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Warlord Boots",
+      "tags": ["Boots", "Warlord"]
+    },
+    {
+      "set": "Warlord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
+      "name": "Warlord Sword",
+      "tags": ["Sword", "Warlord"]
+    },
+    {
+      "set": "Warlord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Warlord Crossbow",
+      "tags": ["Crossbow", "Warlord"]
+    },
+    {
+      "set": "Warlord Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Warlord Bow",
+      "tags": ["Bow", "Warlord"]
+    },
+        {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_helmet.png",
+      "name": "Vote Helmet",
+      "tags": ["Helmet", "Vote"]
+    },
+    {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_chestplate.png",
+      "name": "Vote Chestplate",
+      "tags": ["Chestplate", "Vote"]
+    },
+    {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_leggings.png",
+      "name": "Vote Leggings",
+      "tags": ["Leggings", "Vote"]
+    },
+    {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_boots.png",
+      "name": "Vote Boots",
+      "tags": ["Boots", "Vote"]
+    },
+    {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_sword.png",
+      "name": "Vote Sword",
+      "tags": ["Sword", "Vote"]
+    },
+    {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Vote Crossbow",
+      "tags": ["Crossbow", "Vote"]
+    },
+    {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Vote Bow",
+      "tags": ["Bow", "Vote"]
+    },
+    {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Vote Pickaxe",
+      "tags": ["Pickaxe", "Vote"]
+    },
+    {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "Vote Shovel",
+      "tags": ["Shovel", "Vote"]
+    },
+    {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Vote Axe",
+      "tags": ["Axe", "Vote"]
+    },
+    {
+      "set": "Vote Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_hoe.png",
+      "name": "Vote Hoe",
+      "tags": ["Hoe", "Vote"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_helmet.png",
+      "name": "Reward Helmet",
+      "tags": ["Helmet", "Reward"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_chestplate.png",
+      "name": "Reward Chestplate",
+      "tags": ["Chestplate", "Reward"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_leggings.png",
+      "name": "Reward Leggings",
+      "tags": ["Leggings", "Reward"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_boots.png",
+      "name": "Reward Boots",
+      "tags": ["Boots", "Reward"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_sword.png",
+      "name": "Reward Sword",
+      "tags": ["Sword", "Reward"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_crossbow.png",
+      "name": "Reward Crossbow",
+      "tags": ["Crossbow", "Reward"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Reward Bow",
+      "tags": ["Bow", "Reward"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Reward Pickaxe",
+      "tags": ["Pickaxe", "Reward"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "Reward Shovel",
+      "tags": ["Shovel", "Reward"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Reward Axe",
+      "tags": ["Axe", "Reward"]
+    },
+    {
+      "set": "Reward Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_hoe.png",
+      "name": "Reward Hoe",
+      "tags": ["Hoe", "Reward"]
+    },
+    {
+      "set": "Obsidian Set (Old)",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Obsidian Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Obsidian"]
+    },
+    {
+      "set": "Obsidian Set (Old)",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Obsidian Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Obsidian"]
+    },
+    {
+      "set": "Obsidian Set (Old)",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "Obsidian Shovel",
+      "tags": ["Shovel", "Obsidian"]
+    },
+    {
+      "set": "Obsidian Set (Old)",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Obsidian Axe",
+      "tags": ["Axe", "Obsidian"]
+    },
+    {
+      "set": "Obsidian Set (Old)",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_hoe.png",
+      "name": "Obsidian Hoe",
+      "tags": ["Hoe", "Obsidian"]
+    },
+    {
+      "set": "Obsidian Set (Current)",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Obsidian Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Obsidian"]
+    },
+    {
+      "set": "Obsidian Set (Current)",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Obsidian Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Obsidian"]
+    },
+    {
+      "set": "Obsidian Set (Current)",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "Obsidian Shovel",
+      "tags": ["Shovel", "Obsidian"]
+    },
+    {
+      "set": "Obsidian Set (Current)",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Obsidian Axe",
+      "tags": ["Axe", "Obsidian"]
+    },
+    {
+      "set": "Obsidian Set (Current)",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Obsidian Bow",
+      "tags": ["Bow", "Obsidian"]
+    }
+  ],
   "springCrate": [
     {
       "set": "Evergreen Set",
@@ -3073,5 +3645,5 @@
       "name": "Evergreen Sword",
       "tags": ["Sword", "Evergreen"]
     }
-  ]
+  ],
 }
