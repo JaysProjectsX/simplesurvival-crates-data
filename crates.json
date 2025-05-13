@@ -1563,7 +1563,7 @@
       "tags": ["Decor", "Plushie", "Cosmetic"]
     }
   ],
-  "cosmeticsCrate" [
+  "cosmeticsCrate": [
     {
       "set": "Geared Up Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_sword.png",
