@@ -1090,6 +1090,12 @@
       "tags": ["Pickaxe"]
     },
     {
+      "set": "Pickaxes",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_pickaxe.png",
+      "name": "Emma's Apathy",
+      "tags": ["Pickaxe"]
+    },
+    {
       "set": "Shovels",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_shovel.png",
       "name": "Flex Shovel",
@@ -1644,7 +1650,7 @@
     {
       "set": "Fishing Rods",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_fishing_rod.png",
-      "name": "fisti doesnt even fish",
+      "name": "Fisti doesnt even fish",
       "tags": ["Fishing Rod"]
     },
     {
@@ -1693,6 +1699,12 @@
       "set": "Shears",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shears.png",
       "name": "Ben's Clippers",
+      "tags": ["Shears"]
+    },
+    {
+      "set": "Shears",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shears.png",
+      "name": "Ryans Shears",
       "tags": ["Shears"]
     },
     {
@@ -1778,6 +1790,12 @@
       "set": "Shields",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
       "name": "SinnerBlocker",
+      "tags": ["Shield"]
+    },
+    {
+      "set": "Shields",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_shield.png",
+      "name": "Honest's Final Stand",
       "tags": ["Shield"]
     },
     {
@@ -1953,6 +1971,1099 @@
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
       "name": "Moon's Fatigue",
       "tags": ["Trident"]
+    },
+    {
+      "set": "Tridents",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_trident.png",
+      "name": "Lex's Tin Fork",
+      "tags": ["Trident"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "BeepBoop's BreadBowl",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Ada's Cloche",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Dec's Bombshell",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Sunny's Shell",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Grimm's Halo",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Nikki's Party Hat",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Calli's Party Hat",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Eiresione's BRIANcell Protector",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Google's Virus protector",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Turtle's Cap",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Shannon's Flower Crow",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Wreo's Bucket",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "M1ster's ScootxScute™",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Raw's Bubble Balloon",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Howie's Burgonet",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Oguh's Laurel Wreath",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Venom's Strong Mans Cap",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Markcl6t9's Scuba Lid",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "NotBreaded's BuffBoey",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Crax's Iron Helm",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Zach's TNT Proof Cap",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Muddy's Bubble",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Brickster's Fluffy Hair",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "SinnerSubmerge",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Aspis's Testudine",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Turtle Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_turtle_helmet.png",
+      "name": "Manda Rorian Shellmet",
+      "tags": ["Turtle Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Flex Cap",
+      "tags": ["Helmet", "Flex"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Legendary Cap",
+      "tags": ["Helmet", "Legendary"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_helmet.png",
+      "name": "Sm0ov's Mark V",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Sm0ov's Mark V",
+      "tags": ["Helmet", "Variant"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Choc's Space Helmet",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Skip's Scooba Helmet ™",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Klein's Hardhat",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Jadz's Beanie",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Rapha's Concussion",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Blream's Party Hat",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Gale's Crown",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Zaff's Earmuffs",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Markcl6t9's scooba doobie do",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "George's Pine Tree Cap",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Gale's Thorny Crown",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Evo's Helmet",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Extra's War Helm",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Sunny's Sun Hat",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Gibson's Hat",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Hello's Hat-titude",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Oguh's Skull Protector",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Sinner Skullcap",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Collector$ TradingCap",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Rave's War Bucket",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Upcast's Elegy Crown",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Fisti's Battle Bowl",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Manda-Rorian Helmet",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Gale's Thorny Crown",
+      "tags": ["Helmet"],
+      "tooltip": "This might be a reused name."
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": ":mushroom: Abi's Mushroom Cap :mushroom:",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Kingen's Hardhat™",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Hurricane x Vortex",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Helmets",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_helmet.png",
+      "name": "Antgl's Radiance",
+      "tags": ["Helmet"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Flex Chestplate",
+      "tags": ["Chestplate", "Flex"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Legendary Chestplate",
+      "tags": ["Chestplate", "Legendary"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Fade's Tuxedo",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Loopie2's Ageis",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "CBL's Tie Dye Tee",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Oguh's T-Shirt",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Whelk's Entropy Shield",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Char's Lucky Charm",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "George's Jumper",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Evo's Chestplate",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Proton's Radiantion Suit",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Don't Mind Me™",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Nikki's Comfy Hoodie",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Gale's Breastplate",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Phoenix's Helix",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Blream's Blazer",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "MollyP's Body Protector",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Markcl6t9's Jetpac",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Howie's Cuirass",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Aspis's Brigandine",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Crabmonster's Resilient Shell",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Blream's Puffer Jacket",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Google's AdBlocker",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Flames Jumper",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Chaos Protector",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "FreeWiFi's Polar Parka",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Collector$ TradeVe$t",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Abi's Winter Sweater",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Sinner Shirter",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Mango's Turtleneck",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "a brynanum's love fragment in this chest plating chestplate",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Legendary Crate Item™ [Inceptic Edition]",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Manda Rorian Warplate",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Chestplates",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_chestplate.png",
+      "name": "Hurricane x Barrier",
+      "tags": ["Chestplate"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Flex Leggings",
+      "tags": ["Leggings", "Flex"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Legendary Leggings",
+      "tags": ["Leggings", "Legendary"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Nikki's Fancy Pants",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Nikki's Fancier Pants",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Markcl6t9's Joggers",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Avo's Ducktastic Pants",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Blream's Ripped Jeans",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Zaff's Snowpants",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Evo's Leggings",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Lory's Bunny Onesie",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Eg's Eggstravaganza",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Gale's Pantaloons",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Eiresione's Tight Pants",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Rabbeto's Disco Trousers",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Bass' Bolters",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Jadz's Jeans",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Howie's Chausses",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Ownn's Cargos",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Jei' Levi Jeans",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Rave's Waders",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Tick's Outrider",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Durkons Obsidian Cuisses",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Oguh's Shorts",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Burned Toast",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Upcast's Threnody Greaves",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Aspis's Shcynbald",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Scorch's Vanguard",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "Gus's Galactic Pantaloon",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Leggings",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_leggings.png",
+      "name": "B3nn goalie pads",
+      "tags": ["Leggings"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Flex Boots",
+      "tags": ["Boots", "Flex"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Legendary Boots",
+      "tags": ["Boots", "Legendary"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Afkades Yeezys",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Jadz's Airforce",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Mich's Trotters",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "ProtonStrike's Construction Boots",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Nikki's Nikes",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Markcl6t9 anti-grav Boots",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Mars's Moccasins",
+      "tags": ["Boots", "Banned Item"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "CBL's Bunny Slippers",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Averithmc's Loafers",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Lothario's Sneakers",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Lory's Zoomies",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Sunny's Sandals",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Evo's Boots",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Extra's Snow Boots",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Zaff's Snowshoes",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Blream's Huaraches",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "George's Converse",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "MollyP's Cowgirl Boots",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Gale's Warboots",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Jadz Nile Dunk",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Mel's Memory Foam Moccasins",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Mokie's Yeezeys",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Jordan Bio7 Mochass",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Honeste's Dr Martens",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Terkk's Thongs",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Crax's Paddock Boots ",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "SinnerSlippers",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Memmy's Stompers",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Hurricane Runners",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "FreeWiFI's Ice Skates",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Ghosty's Death Trail",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Skibidi sigma footy protectors",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Lynx Foot Gear",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Boots",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_netherite_boots.png",
+      "name": "Google's Slides",
+      "tags": ["Boots"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Lola's Fairy Wings",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Irha's Glider",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Choc's Leviosa",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Supreme's Shroud",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Zaf's Zephyr Glider",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Crooksio's Hot Wings",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Batwoman",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Batman",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Power Rangers",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Osama's Angel Wings",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Mokie's Starsurfer",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "FreeWiFi's Glacier Racer",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Kingen's Elytra",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Skibidi sigma's fortnite glider",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Oguh's Wings",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Elytra's",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_elytra.png",
+      "name": "Finna's Sky Splitters",
+      "tags": ["Elytra"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Flex Tag",
+      "tags": ["NameTag"]
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Username's Pokie",
+      "tags": ["NameTag"],
+      "tooltip": "'Username' would be replaced with your username when pulled from the crate."
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Username's Axe",
+      "tags": ["NameTag"],
+      "tooltip": "'Username' would be replaced with your username when pulled from the crate."
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Username's Hoe",
+      "tags": ["NameTag"],
+      "tooltip": "'Username' would be replaced with your username when pulled from the crate."
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Username's Silktouch",
+      "tags": ["NameTag"],
+      "tooltip": "'Username' would be replaced with your username when pulled from the crate."
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Username's Fortune",
+      "tags": ["NameTag"],
+      "tooltip": "'Username' would be replaced with your username when pulled from the crate."
+    },
+    {
+      "set": "Name Tags",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_name_tag.png",
+      "name": "Username's Shovel",
+      "tags": ["NameTag"],
+      "tooltip": "'Username' would be replaced with your username when pulled from the crate."
     }
   ],
   "springCrate": [
