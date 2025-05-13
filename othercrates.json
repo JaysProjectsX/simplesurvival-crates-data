@@ -3638,6 +3638,248 @@
       "tags": ["Bow", "Obsidian"]
     }
   ],
+  "playerItems": [
+    {
+      "set": "Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Panda's Bow",
+      "tags": ["Bow", "Panda"]
+    },
+    {
+      "set": "Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Panda's Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Panda"]
+    },
+    {
+      "set": "Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Panda's Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Panda"]
+    },
+    {
+      "set": "Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "Panda's Spade",
+      "tags": ["Shovel", "Panda"]
+    },
+    {
+      "set": "Panda Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Panda's Axe",
+      "tags": ["Axe", "Panda"]
+    },
+    {
+      "set": "Rach Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Rach's Shoota",
+      "tags": ["Bow", "Rach"]
+    },
+    {
+      "set": "Rach Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Rach's Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Rach"]
+    },
+    {
+      "set": "Rach Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Rach's Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Rach"]
+    },
+    {
+      "set": "Rach Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "Rach's Spade",
+      "tags": ["Shovel", "Rach"]
+    },
+    {
+      "set": "Rach Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Rach's Axe",
+      "tags": ["Axe", "Rach"]
+    },
+    {
+      "set": "Crooksio Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Crooksio's Bow",
+      "tags": ["Bow", "Crooksio"]
+    },
+    {
+      "set": "Crooksio Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Crooksio's Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Crooksio"]
+    },
+    {
+      "set": "Crooksio Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Crooksio's Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Crooksio"]
+    },
+    {
+      "set": "Crooksio Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "Crooksio's Spade",
+      "tags": ["Shovel", "Crooksio"]
+    },
+    {
+      "set": "Crooksio Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Crooksio's Axe",
+      "tags": ["Axe", "Crooksio"]
+    },
+    {
+      "set": "LOTHARIO Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "LOTHARIO's Shoota",
+      "tags": ["Bow", "LOTHARIO"]
+    },
+    {
+      "set": "LOTHARIO Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "LOTHARIO's Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "LOTHARIO"]
+    },
+    {
+      "set": "LOTHARIO Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "LOTHARIO's Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "LOTHARIO"]
+    },
+    {
+      "set": "LOTHARIO Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "LOTHARIO's Spade",
+      "tags": ["Shovel", "LOTHARIO"]
+    },
+    {
+      "set": "LOTHARIO Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "LOTHARIO's Axe",
+      "tags": ["Axe", "LOTHARIO"]
+    },
+    {
+      "set": "Duckshine Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Duckshine's Bow",
+      "tags": ["Bow", "Duckshine"]
+    },
+    {
+      "set": "Duckshine Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Duckshine's Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Duckshine"]
+    },
+    {
+      "set": "Duckshine Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Duckshine's Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Duckshine"]
+    },
+    {
+      "set": "Duckshine Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "Duckshine's Spade",
+      "tags": ["Shovel", "Duckshine"]
+    },
+    {
+      "set": "Duckshine Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Duckshine's Axe",
+      "tags": ["Axe", "Duckshine"]
+    },
+    {
+      "set": "Blream Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Blream's Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Blream"]
+    },
+    {
+      "set": "Blream Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Blream's Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Blream"]
+    },
+    {
+      "set": "Blream Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "Blream's Spade",
+      "tags": ["Shovel", "Blream"]
+    },
+    {
+      "set": "Blream Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Blream's Axe",
+      "tags": ["Axe", "Blream"]
+    },
+    {
+      "set": "Blream Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_hoe.png",
+      "name": "Blream's Hoe",
+      "tags": ["Hoe", "Blream"]
+    },
+    {
+      "set": "Miles Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
+      "name": "Miles's Bow",
+      "tags": ["Bow", "Miles"]
+    },
+    {
+      "set": "Miles Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Miles's Pickaxe (Fortune)",
+      "tags": ["Pickaxe", "Miles"]
+    },
+    {
+      "set": "Miles Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
+      "name": "Miles's Pickaxe (Silk Touch)",
+      "tags": ["Pickaxe", "Miles"]
+    },
+    {
+      "set": "Miles Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
+      "name": "Miles's Spade",
+      "tags": ["Shovel", "Miles"]
+    },
+    {
+      "set": "Miles Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Miles's Axe",
+      "tags": ["Axe", "Miles"]
+    },
+    {
+      "set": "Raphael Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_helmet.png",
+      "name": "Raphael's Helmet",
+      "tags": ["Helmet", "Raphael"]
+    },
+    {
+      "set": "Raphael Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_chestplate.png",
+      "name": "Raphael's Chestplate",
+      "tags": ["Chestplate", "Raphael"]
+    },
+    {
+      "set": "Raphael Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_leggings.png",
+      "name": "Raphael's Leggings",
+      "tags": ["Leggings", "Raphael"]
+    },
+    {
+      "set": "Raphael Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_boots.png",
+      "name": "Raphael's Boots",
+      "tags": ["Boots", "Raphael"]
+    },
+    {
+      "set": "Mich Set",
+      "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
+      "name": "Mich's BattleAxe",
+      "tags": ["Axe", "Mich"]
+    }
+  ],
   "springCrate": [
     {
       "set": "Evergreen Set",
