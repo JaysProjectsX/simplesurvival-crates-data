@@ -3578,61 +3578,61 @@
       "tags": ["Hoe", "Reward"]
     },
     {
-      "set": "Obsidian Set (Old)",
+      "set": "Old Obsidian Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
       "name": "Obsidian Pickaxe (Fortune)",
       "tags": ["Pickaxe", "Obsidian"]
     },
     {
-      "set": "Obsidian Set (Old)",
+      "set": "Old Obsidian Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
       "name": "Obsidian Pickaxe (Silk Touch)",
       "tags": ["Pickaxe", "Obsidian"]
     },
     {
-      "set": "Obsidian Set (Old)",
+      "set": "Old Obsidian Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
       "name": "Obsidian Shovel",
       "tags": ["Shovel", "Obsidian"]
     },
     {
-      "set": "Obsidian Set (Old)",
+      "set": "Old Obsidian Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
       "name": "Obsidian Axe",
       "tags": ["Axe", "Obsidian"]
     },
     {
-      "set": "Obsidian Set (Old)",
+      "set": "Old Obsidian Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_hoe.png",
       "name": "Obsidian Hoe",
       "tags": ["Hoe", "Obsidian"]
     },
     {
-      "set": "Obsidian Set (Current)",
+      "set": "Current Obsidian Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
       "name": "Obsidian Pickaxe (Fortune)",
       "tags": ["Pickaxe", "Obsidian"]
     },
     {
-      "set": "Obsidian Set (Current)",
+      "set": "Current Obsidian Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_pickaxe.png",
       "name": "Obsidian Pickaxe (Silk Touch)",
       "tags": ["Pickaxe", "Obsidian"]
     },
     {
-      "set": "Obsidian Set (Current)",
+      "set": "Current Obsidian Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_shovel.png",
       "name": "Obsidian Shovel",
       "tags": ["Shovel", "Obsidian"]
     },
     {
-      "set": "Obsidian Set (Current)",
+      "set": "Current Obsidian Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_diamond_axe.png",
       "name": "Obsidian Axe",
       "tags": ["Axe", "Obsidian"]
     },
     {
-      "set": "Obsidian Set (Current)",
+      "set": "Current Obsidian Set",
       "icon": "https://mc.nerothe.com/img/1.21.5/minecraft_bow.png",
       "name": "Obsidian Bow",
       "tags": ["Bow", "Obsidian"]
@@ -3645,5 +3645,5 @@
       "name": "Evergreen Sword",
       "tags": ["Sword", "Evergreen"]
     }
-  ]
+  ],
 }
